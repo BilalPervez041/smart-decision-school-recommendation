@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35169417385",
+    "project_id": "smartdecision-973a6",
+    "storage_bucket": "smartdecision-973a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35169417385:android:038f3f40a4b5b5fadf11b8",
+        "android_client_info": {
+          "package_name": "com.example.smartdecision"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-7y07dTNqV85OmUpwD7VrBbntayfKdp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
